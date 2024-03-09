@@ -1,0 +1,19 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "Learning BackEnd with Project",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev" : "nodemon src/index.js"
+  },
+  "keywords": [
+    "Learning",
+    "Backend"
+  ],
+  "author": "Ravi Chandra",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
